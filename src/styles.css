@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+.table{
+    margin-top: 10px;
+}
+div.card{
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+}
